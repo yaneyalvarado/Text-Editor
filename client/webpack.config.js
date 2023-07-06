@@ -43,7 +43,7 @@ module.exports = () => {
           },
         ],
       }),
-      // Injects our custom worker
+      // Injects our custom service workers
       new InjectManifest({
         swSrc: "./src-sw.js",
         swDest: "src-sw.js",
