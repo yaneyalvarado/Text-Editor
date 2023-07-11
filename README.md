@@ -35,5 +35,8 @@ I have built a text editor that runs in a browser. This app is a single-page app
 
 ## Demo
 
+## Deployment with Heroku
+https://calm-retreat-34165.herokuapp.com/
+
 ## GitHub
 https://github.com/yaneyalvarado/Text-Editor
